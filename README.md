@@ -1,28 +1,13 @@
-# Ant Design and Redux Toolkit Template Application
+# Mindful - Investment tracking and breakdown tool
 
-This project was created to allow for quick creation of a new website using the following:
+The mission statement is to create an easy to use and visually appealing investment monitoring app.
 
-- Create React App
-- Ant Design web design framework
-- Redux Toolkit (RTK) for global state management
-- Typesript
-- ESLint, Prettier (Linting, formatting)
+This project is still getting of the ground.
 
-## To Begin Using
+### Below is the file structure :
 
-Clone the repository, use npm / yarn start and be well on you way.
-
-### The Template is Minimalistic
-
-The intention of this template is for a developer to do the minimum amount of setup required 
-to begin working on a new project. It is by no means a finished product. Below is the file structure :
-
-
-
-- public                  -- Contains meta data
-- src                     -- Source files (alternatively `lib` or `app`)
-- package.json            -- Scripts and project dependencies 
-- tsconfig.json           -- Typescript rules 
+- public -- Contains meta data
+- src -- Source files (alternatively `lib` or `app`)
+- package.json -- Scripts and project dependencies
+- tsconfig.json -- Typescript rules
 - README.md
-
-
