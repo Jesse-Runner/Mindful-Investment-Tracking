@@ -19,10 +19,10 @@ to begin working on a new project. It is by no means a finished product. Below i
 
 
 
-├── public                  # contains meta data
-├── src                     # Source files (alternatively `lib` or `app`)
-├── package.json            # scripts and project dependencies 
-├── tsconfig.json           # typescript rules 
-└── README.md
+- public                  # contains meta data
+- src                     # Source files (alternatively `lib` or `app`)
+- package.json            # scripts and project dependencies 
+- tsconfig.json           # typescript rules 
+- README.md
 
 
