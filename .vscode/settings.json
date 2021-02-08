@@ -1,0 +1,26 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.organizeImports": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "psi-header.config": {
+    "forceToTop": true,
+    "blankLinesAfter": 0,
+    "company": "Jesse Runner"
+  },
+  "psi-header.variables": [["projectCreationYear", "2020"]],
+  "psi-header.templates": [
+    {
+      "language": "*",
+      "template": [
+        "File: <<filename>>",
+        "Project: <<projectname>>",
+        "-----",
+        "Last Modified: <<dateformat('DD MMM YYYY h:mm:ss a')>>",
+        "-----",
+        "Copyright (c) <<year>> <<company>> All rights reserved."
+      ]
+    }
+  ]
+}
